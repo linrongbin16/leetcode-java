@@ -25,4 +25,8 @@ hs_err_pid*
 # IDEA
 .idea
 
+# vscode
+.vscode
+
+# bulid
 target
